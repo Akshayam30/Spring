@@ -8,7 +8,7 @@ public class OrderserviceApiApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(OrderserviceApiApplication.class, args);
-		System.out.println("Application Started");
+		System.out.println("Application Begin");
 	}
 
 }
